@@ -6,6 +6,7 @@
 
 import argparse
 import sys
+import os
 try:
   import readline
   # this is to prevent various tools from deleting import readline
